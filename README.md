@@ -6,6 +6,6 @@ A really fun exercise for practicing basic Python. This is a terminal-based game
 ### How to Run:
 Clone the repository and run the game.
    ```bash
-    git clone <repository-url>
+    git clone https://github.com/LoopForLoot/python-rock-paper-scissors-game.git
     python app.py
 
